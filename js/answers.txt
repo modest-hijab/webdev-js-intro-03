@@ -1,0 +1,17 @@
+Explain why a number data type added to a string data type returns a string.
+
+*when a number is joined to a string the js will interpret the number as a string as well.
+
+Name a scenario where using the == operator could cause a bug.
+
+*it can cause an error when the data type and the value look the same with out being strict and you expect the data type and the value to be the same.
+
+
+Name the operator(s) that you find confusing and explain why.
+
+* In office hours you were explaining to me. the difference between the or operator And the  & operator. So I'm still trying to grasp the order of precedence on the. use of these two.
+
+
+Explain a situation where you would use the Modulus operator and why.
+
+*You would use the modulus operator If, for example, you have large numbers that you're working with, and you need to know if a number is odd or even. Also, it's used for wrapping around. say, for example, you. need to go from December to January instead of going backwards you would use a modulus operator. to cycle from 12 to 1. Instead of having to go backwards 12 11, 10, ET cetera.
